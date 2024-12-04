@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package views;
+hola
 
 import java.awt.Color;
 import java.awt.Dimension;
